@@ -1,0 +1,17 @@
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\bin\Debug\Assignment1Tests.dll
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\bin\Debug\Assignment1Tests.pdb
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\bin\Debug\Assignment1.exe
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\bin\Debug\Assignment1.pdb
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\bin\Debug\Assignment1.exe.config
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\obj\Debug\Assignment1Tests.csproj.AssemblyReference.cache
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\obj\Debug\Assignment1Tests.csproj.CoreCompileInputs.cache
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\obj\Debug\Assignme.EE2DE20E.Up2Date
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\obj\Debug\Assignment1Tests.dll
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\obj\Debug\Assignment1Tests.pdb
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

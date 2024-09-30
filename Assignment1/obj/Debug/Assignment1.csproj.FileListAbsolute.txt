@@ -1,0 +1,7 @@
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\pmacd\Desktop\sodv2202-assignment-1-starter\Assignment1\obj\Debug\Assignment1.pdb
